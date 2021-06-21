@@ -1,3 +1,4 @@
-Linear Regression 
+# Simple Linear Regression 
 
-linear regression analysis for car price predictions
+
+Example simple Linear Regression with many case study
