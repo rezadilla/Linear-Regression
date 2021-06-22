@@ -1,4 +1,4 @@
-# Simple Linear Regression 
+# Linear Regression 
 
 
-Example simple Linear Regression with many case study
+Example Simple and Multiple Linear Regression with many case study
